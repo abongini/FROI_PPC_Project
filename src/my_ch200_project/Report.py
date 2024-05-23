@@ -38,8 +38,8 @@ IPythonConsole.ipython_useSVG=True
 # In[2]:
 
 
-get_ipython().run_line_magic('run', './Dictionnaries.ipynb')
-get_ipython().run_line_magic('run', './Lists.ipynb')
+get_ipython().run_line_magic('run', './notebooks/Dictionnaries.ipynb')
+get_ipython().run_line_magic('run', './notebooks/Lists.ipynb')
 
 
 # <span style="font-size:14pt; text-decoration:underline;"> Part II: Reaction Functions </span>
@@ -49,7 +49,7 @@ get_ipython().run_line_magic('run', './Lists.ipynb')
 # In[3]:
 
 
-get_ipython().run_line_magic('run', './Reaction_Functions.ipynb')
+get_ipython().run_line_magic('run', './notebooks/Reaction_Functions.ipynb')
 
 
 # <span style="font-size:14pt; text-decoration:underline;"> Part III: Exercice Resolution </span>

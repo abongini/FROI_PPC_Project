@@ -5,13 +5,13 @@ build-backend = "hatchling.build"
 [project]
 name = "my-ch200-project"
 version = "0.0.1"
-description = ''
+description = 'A tool to apply some reaction see in FRO I class at EPFL to molecules. This project was carried out as part of the Practical Programming in chemistry CH200 course.'
 readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "Author Name", email = "author@email.com" },
+  { name = "Arthur Bongini, Emna Belgharbia, Oriane Belgharbia", email = "arthur.bongini@epfl.ch" },
 ]
 dependencies = [
 ]
